@@ -44,10 +44,10 @@ Jumlah: Nominal uang dalam Rupiah.
    
 ![Screenshot 2025-04-07 210601](https://github.com/user-attachments/assets/40a4b9f1-fbc8-41ec-8e31-1713de62b25b)
 
-5. Lihat hasilnya langsung pada ringkasan dan tabel data.
+4. Lihat hasilnya langsung pada ringkasan dan tabel data.
 ![Screenshot 2025-04-07 210341](https://github.com/user-attachments/assets/5b9ff7e9-b811-4d77-aff2-700d12a42b66)
 
-6. Untuk mengelola data:
+5. Untuk mengelola data:
 
 
 Klik Hapus Semua Data untuk mengosongkan semua transaksi.
