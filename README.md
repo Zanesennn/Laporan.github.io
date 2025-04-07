@@ -8,27 +8,50 @@ Fitur Utama:
 - Menyimpan laporan dalam format PDF.
 - Menghapus semua data atau menghapus baris transaksi terakhir.
 
-Petunjuk Instalasi:
+Teknologi yang digunakan
 
-Sebelum menginstal, pastikan bahwa Anda memiliki perangkat lunak berikut di komputer Anda:
+HTML: Struktur halaman.
+
+CSS + Bootstrap 5.3: Tampilan antarmuka yang responsif dan modern.
+
+JavaScript DOM: Mengelola logika aplikasi secara dinamis di sisi klien.
+
+jsPDF: Plugin JavaScript untuk menyimpan data ke dalam format PDF secara langsung dari browser.
+
+Petunjuk Penggunaan:
+
+Sebelum menggunakan, pastikan bahwa Anda memiliki perangkat lunak berikut di komputer Anda:
 - Web browser (Chrome, Firefox, Safari, atau Edge)
 - Koneksi internet untuk mengakses CDN dari Bootstrap dan jsPDF.
 
-Langkah Langkah Instalisasi:
-Clone repository 
-Disini Saya Menggunakan Github Dekstop
-![Screenshot 2025-04-07 171742](https://github.com/user-attachments/assets/269a5389-9330-4888-aadc-34369b933842)
+Langkah Langkah Penggunaan:
 
-Lalu Login Ke Akun Github 
-
-![Screenshot 2025-04-07 171751](https://github.com/user-attachments/assets/a1110266-7312-4901-b1db-9c6ae35054e8)
-
-Setelah Login Pilih Repository Seperti ini lalu di clone
-
-![Screenshot 2025-04-07 172157](https://github.com/user-attachments/assets/4c71e572-bbbe-4f42-a1c0-2aaa930b383e)
-
-Lalu Anda Tinggal Membuka File Html Anda di Browser anda, setelah berhasil maka Tampilan nya berhasil Seperti ini
+1. Buka File Html
 ![Screenshot 2025-04-07 172600](https://github.com/user-attachments/assets/c5584499-1978-4d5a-8900-7021b224a99a)
+
+2. Isi form transaksi:
+
+Tanggal: Pilih tanggal transaksi.
+
+Keterangan: Tulis deskripsi atau catatan singkat.
+
+Tipe Transaksi: Pilih Pemasukan atau Pengeluaran.
+
+Jumlah: Nominal uang dalam Rupiah.
+
+3. Klik tombol Tambah Transaksi.
+
+
+4. Lihat hasilnya langsung pada ringkasan dan tabel data.
+
+
+5. Untuk mengelola data:
+
+Klik Hapus Semua Data untuk mengosongkan semua transaksi.
+
+Klik Hapus Baris Terakhir untuk menghapus transaksi terakhir.
+
+Klik Simpan PD" untuk mendownload laporan keuangan dalam bentuk PDF.
 
 Fungsi Tombol-Tombol di atas :
 
