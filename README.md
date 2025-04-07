@@ -8,10 +8,13 @@ Fitur Utama:
 - Menampilkan laporan keuangan harian dengan saldo akhir yang terhitung secara otomatis.
 - Menyimpan laporan dalam format PDF.
 - Menghapus semua data atau menghapus baris transaksi terakhir.
-Petunjuk Instalasi
-Prasyarat
+
+
+Petunjuk Instalasi:
+
 Sebelum menginstal, pastikan bahwa Anda memiliki perangkat lunak berikut di komputer Anda:
-- Web browser seperti : Chrome, Firefox, Safari, atau Edge
+- Web browser (Chrome, Firefox, Safari, atau Edge)
 - Koneksi internet untuk mengakses CDN dari Bootstrap dan jsPDF.
 
-
+Langkah Langkah Instalisasi:
+Clone repository 
