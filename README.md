@@ -1,6 +1,8 @@
-Judul :Laporan Keuangan Harian
-Deskripsi
+Laporan Keuangan Harian
+
+
 Laporan Keuangan Harian adalah aplikasi berbasis web yang dirancang untuk membantu pengguna dalam mencatat dan mengelola pemasukan dan pengeluaran mereka setiap hari. Aplikasi ini menyediakan antarmuka yang sederhana dan mudah digunakan untuk memasukkan data keuangan harian, menghitung saldo akhir, serta menyimpan laporan dalam format PDF.
+
 Fitur Utama:
 - Menambahkan transaksi pemasukan dan pengeluaran.
 - Menampilkan laporan keuangan harian dengan saldo akhir yang terhitung secara otomatis.
